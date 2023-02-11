@@ -5,11 +5,11 @@
   ],
   "init_jumlah_photo": 50
   "pub_id": "pub-5115092266346786",
-  "app_id": "ca-app-pub-5115092266346786~3735744618",
-  "admob_banner_id": "ca-app-pub-5115092266346786/5188427080",
-  "admob_interstitial_id": "ca-app-pub-5115092266346786/7637097659",
-  "admob_native_id": "ca-app-pub-5115092266346786/1779665117",
-  "admob_rewared_id": "ca-app-pub-5115092266346786/8936100400",
+  "app_id": "ca-app-pub-5115092266346786~2151279754",
+  "admob_banner_id": "ca-app-pub-5115092266346786/8496647514",
+  "admob_interstitial_id": "ca-app-pub-5115092266346786/6864001641",
+  "admob_native_id": "ca-app-pub-5115092266346786/1931239164",
+  "admob_rewared_id": "ca-app-pub-5115092266346786/1948099775",
 
   "admob_hpk_1": "",
   "admob_hpk_2": "",
@@ -28,7 +28,7 @@
   "interstitial_inverval": 3,
   "rewarded_photo_inverval": 3,
 
-  "primary_ads": "FAN
+  "primary_ads": "FAN"
   "list_ads": [
     "ADMOB",
     "MOPUB",
